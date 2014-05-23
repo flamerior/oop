@@ -1,6 +1,3 @@
-#include "Point.h"
-#include "Square.h"
-#include "Rect.h"
 #include "Shape.h"
 #include "Printable.h"
 #include <stdlib.h>
