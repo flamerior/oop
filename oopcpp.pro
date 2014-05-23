@@ -11,13 +11,8 @@ SOURCES += main.cpp \
 HEADERS += \
     element.h \
     Named.h \
-    Circle.h \
     Figures.h \
-    Point.h \
-    Polyline.h \
     Printable.h \
-    Rect.h \
-    Shape.h \
-    Square.h
+    Shape.h
 
 
